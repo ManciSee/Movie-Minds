@@ -1,5 +1,8 @@
 # Movie Minds
+<p align="center"><img src="./images/logo.jpeg" alt="logo" width="300"/></p>
+
 The proposed project is an integrated movie recommendation system based on The Movie Database ([TMDb](https://www.themoviedb.org/)). Through the use of TMDb APIs, data on the most popular films are acquired and consolidated into a CSV file containing all available information. <br/><br/>
+
 **Key Features:**
 1. Search and Recommendation:<br/>
 The system allows to search and receive personalized recommendations by entering features such as genre, plot, cast, or other adjustable parameters.
@@ -33,10 +36,14 @@ jupyter notebook
 
 ## Examples
 1. Movie Dataset
+<p align="center"><img src="./images/dataset.png" alt="dataset" /></p>
 
 2. Recommendations for two films
+<p align="center"><img src="./images/recommendations.png" alt="recommendations" width="500" /></p>
 
-3. Movie Recommendations Based on Cover Art Example
+4. Movie Recommendations Based on Cover Art Example
+<p align="center"><img src="./images/poster recommendations.png" alt="dataset" /></p>
+
 
 
 
