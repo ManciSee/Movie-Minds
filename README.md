@@ -44,6 +44,10 @@ jupyter notebook
 4. Movie Recommendations Based on Cover Art Example
 <p align="center"><img src="./images/poster recommendations.png" alt="dataset" /></p>
 
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
+
 
 
 
