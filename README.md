@@ -12,8 +12,8 @@ The results of the recommendation system are compared with direct recommendation
 3. Plot Generation: <br/>
 Another function of the system allows to generate invented movie plots.
 The system returns a list of films compatible with the provided plot, indicating the percentage of similarity through natural language processing (NLP) techniques.
-4. Poster Analysis with Keras and VGG16:<br/>
-Poster analysis is performed using Keras and the VGG16 model.
+4. Poster Analysis with Keras and VGG19:<br/>
+Poster analysis is performed using Keras and the VGG19 model.
 The system identifies movie covers similar to those in a dataset based on visual features of the posters.
 
 ## Installation
