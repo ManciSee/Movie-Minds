@@ -47,6 +47,10 @@ jupyter notebook
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ManciSee/Movie-Minds&type=Date)](https://star-history.com/#ManciSee/Movie-Minds&Date)
+
 
 
 
